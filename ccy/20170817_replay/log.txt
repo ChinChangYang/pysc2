@@ -1,0 +1,122 @@
+E:\Documents\GitHub\pysc2\pysc2\lib\protocol.py:105: RuntimeWarning: Trying to access flag sc2_verbose before flags were parsed. This will raise an exception in the future.
+  if FLAGS.sc2_verbose:
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+E:\Documents\GitHub\pysc2\pysc2\lib\protocol.py:83: RuntimeWarning: Trying to access flag sc2_verbose before flags were parsed. This will raise an exception in the future.
+  if FLAGS.sc2_verbose:
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+E:\Documents\GitHub\pysc2\pysc2\lib\protocol.py:87: RuntimeWarning: Trying to access flag sc2_verbose before flags were parsed. This will raise an exception in the future.
+  if FLAGS.sc2_verbose:
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+ERROR:root:Trying to access flag sc2_verbose before flags were parsed.
+Traceback (most recent call last):
+  File "E:\Python\Python36-32\lib\site-packages\gflags\flagvalues.py", line 535, in __getattr__
+    raise exceptions.UnparsedFlagAccessError(error_message)
+gflags.exceptions.UnparsedFlagAccessError: Trying to access flag sc2_verbose before flags were parsed.
+Getting replay list: E:\StarCraft II\Replays\RandomAgent\Simple64_2017-08-17-00-12-44.SC2Replay
+1 replays found.
+
+============================================= Summary 10 secs =============================================
+Replays: 0, Steps total: 0
+
+Camera move: 0, Select pt: 0, Select rect: 0, Control group: 0
+
+Maps: 0
+{}
+
+Races: 0
+{}
+
+Unit ids: 0
+{}
+
+Valid abilities: 0
+{}
+
+Made abilities: 0
+{}
+
+Valid actions: 0
+{}
+
+Made actions: 0
+{}
+
+Crashing replays: 0
+[]
+
+Invalid replays: 0
+[]
+---------------------------------------------- Process stats ----------------------------------------------
+[ 0] replay:           , replays:     0, steps:       0, game loops:       0, last:       launch,   9 s ago
+===========================================================================================================
+============================================= Summary 20 secs =============================================
+Replays: 0, Steps total: 0
+
+Camera move: 0, Select pt: 0, Select rect: 0, Control group: 0
+
+Maps: 0
+{}
+
+Races: 0
+{}
+
+Unit ids: 0
+{}
+
+Valid abilities: 0
+{}
+
+Made abilities: 0
+{}
+
+Valid actions: 0
+{}
+
+Made actions: 0
+{}
+
+Crashing replays: 0
+[]
+
+Invalid replays: 0
+[]
+---------------------------------------------- Process stats ----------------------------------------------
+[ 0] replay: Simple64_2, replays:     0, steps:       0, game loops:       0, last:  replay_info,   0 s ago
+===========================================================================================================
